@@ -1,4 +1,4 @@
-#+TITLE: W3M Calendar Framework Layer for Spacemacs
+#+TITLE: Calendar Framework Layer for Spacemacs
 
 * Description
 CalFW Layer for Spacemacs.

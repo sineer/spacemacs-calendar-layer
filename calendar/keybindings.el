@@ -9,6 +9,7 @@
 ;;
 ;; License: MIT
 
-;; Variables
 
-;(setq calendar/key-binding-prefixes '(("aw" . "applications-w3m")))
+;; Keybindings
+(spacemacs/declare-prefix "d" "bracket-prefix")
+(spacemacs/set-leader-keys "dd" 'cfw:open-calendar-buffer)
