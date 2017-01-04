@@ -1,0 +1,18 @@
+#+TITLE: W3M Calendar Framework Layer for Spacemacs
+
+* Description
+CalFW Layer for Spacemacs.
+
+* Install
+
+** Layer
+
+To use this contribution add it to your =~/.spacemacs=
+
+#+BEGIN_SRC emacs-lisp
+(setq-default dotspacemacs-configuration-layers '(calendar))
+#+END_SRC
+
+* Config
+
+* Key Bindings
